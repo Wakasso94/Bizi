@@ -1,0 +1,8 @@
+.head {
+    background: linear-gradient(rgba(49, 49, 49, 0.4),rgba(49,49,49,.4)), url(img/2.jpg)center/cover no-repeat fixed;
+    height: 100vh;
+}
+body{
+    background: linear-gradient(rgba(49, 49, 49, 0.4),rgba(49,49,49,.4)), url(img/8.jpg)center/cover no-repeat fixed;
+    height: 100vh;
+}
